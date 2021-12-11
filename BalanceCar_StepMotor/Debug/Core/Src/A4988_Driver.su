@@ -1,0 +1,3 @@
+A4988_Driver.c:10:6:StepMotorDriver_Iint	16	static
+A4988_Driver.c:63:6:StepMotor_Control	32	static
+A4988_Driver.c:100:6:StepMotor_Stop	16	static

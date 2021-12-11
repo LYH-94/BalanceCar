@@ -1,0 +1,14 @@
+core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+core_cm4.h:2022:26:SysTick_Config	16	static
+main.c:105:5:main	32	static
+main.c:202:6:SystemClock_Config	88	static
+main.c:248:13:MX_I2C1_Init	8	static
+main.c:282:13:MX_TIM2_Init	64	static
+main.c:341:13:MX_TIM3_Init	64	static
+main.c:400:13:MX_USART2_UART_Init	8	static
+main.c:433:13:MX_GPIO_Init	48	static
+main.c:490:8:PID_angle_controller	80	static
+main.c:522:8:PID_speed_controller	80	static
+main.c:546:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:560:1:__io_putchar	16	static
+main.c:572:6:Error_Handler	4	static,ignoring_inline_asm
